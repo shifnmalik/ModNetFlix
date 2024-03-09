@@ -1,0 +1,10 @@
+.body {
+    background-size: cover;
+    
+    background-attachment:fixed;
+    height: 1000px;
+    margin: 0;
+    padding: 0;
+    background-image:url("https://github.com/chinmayjha/Netflix-login-page-clone/blob/main/img/background.jpg?raw=true");
+    font-family: 'Roboto', sans-serif;
+}

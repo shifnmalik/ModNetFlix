@@ -18,7 +18,7 @@ function Login() {
             <input type="password" required />
             <label>Password</label>
         </div>
-        <button className='bg-red-700' type="submit">Sign In</button>
+        <button className='bg-red-700' type="submit">Login</button>
         <div className="form-help"> 
             <div className="remember-me">
                 <input type="checkbox" id="remember-me" />

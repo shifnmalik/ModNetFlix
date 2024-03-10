@@ -2,6 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import GlobalApi from "../Services/GlobelApi";
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/original";
 import { HiChevronLeft, HiChevronRight } from "react-icons/hi2";
+import "react-icons/hi2"
 const screenWidth = window.innerWidth;
 
 function Slider() {
